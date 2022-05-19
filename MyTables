@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html>
+	<section>
+		<h2>Nome da Escola<h/2>
+		<table widht="100%" border="1">
+			<tr>
+				<td>Escola de Artes</td>
+				<td>Jardins</td>
+			</tr>
+			<tr>
+				<td>Studio Artesy</td>
+				<td>Piedade</td>
+			</tr>
+			<tr>
+				<td>Instituto Sonar</td>
+				<td>Casa Forte</td>
+			</tr>
+		</table>
+		
+		<h2>Cursos</h2>
+		<table width="100%" border="1">
+			<tr>
+				<th>Escola</th>
+				<th>Cursos</th>
+				<th>Turno</th>
+				<th>preço</th>
+			<tr>
+				<td>Escola de Artes</td>
+				<td>Desenho, pintura, dança</th>
+				<td>Manhã/tarde</th>
+				<td>R$ 100</td>
+			</tr>
+			<tr>
+				<td>Studio Artesy</td>
+				<td>Desenho, pintura, dança, música</th>
+				<td>Manhã/tarde/noite</th>
+				<td>R$ 130</td>
+			</tr>
+			<tr>
+				<td>Instituto Sonar</td>
+				<td>Pintura, arte digital, dança, música</th>
+				<td>Manhã/tarde/noite</th>
+				<td>R$ 125</td>
+			</tr>
+		</table>
+	
+	<h2>Início de novo semestre e conclusão</h2>
+	<table width="100%" border="1">
+		<thead>
+			<tr>
+				<th>Início</th>
+				<th>Término</th>
+			</th>
+		</thead>
+		<tbody>
+			<tr>
+				<td>Junho/22</td>
+				<td>Dezembro/22</td>
+			</tr>
+			<tr>
+				<td>Janeiro/23</td>
+				<td>Junho/23</td>
+			</tr>
+		</tfoot>
+	</table>
+	
+	<h2>Tabela com colspan</h2>
+	<table width="100%" border="1">
+	<tr>
+		<th>Aluno</th>
+		<th colspan="2">Disciplinas</th>
+	</tr>
+	<tr>
+		<td>Maria</td>
+		<td>Dança</td>
+		<td>Balé</td>
+	</tr>
+	</table>
+	<h2>Tabela com rolspan</h2>
+	<table width="100%" border="1">
+		<tr>
+			<th>Aluno:</th>
+			<th>Maria</th>
+		</tr>
+		<tr>
+			<th rowspan="2">Disciplinas:</th>
+			<td>Dança</td>
+		</tr>
+		<tr>
+			<td>Balé</td>
+		</tr>
+	</table>
+</html>
