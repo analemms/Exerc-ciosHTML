@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html>
+	<section>
+		<h2>Nome da Escola<h/2>
+		<table widht="100%" border="1">
+			<tr>
+				<td>Escola de Artes</td>
+				<td>Jardins</td>
+			</tr>
+			<tr>
+				<td>Studio Artesy</td>
+				<td>Piedade</td>
+			</tr>
+			<tr>
+				<td>Instituto Sonar</td>
+				<td>Casa Forte</td>
+			</tr>
+		</table>
+		
+		<h2>Cursos</h2>
+		<table width="100%" border="1">
+			<tr>
+				<th>Escola</th>
+				<th>Cursos</th>
+				<th>Turno</th>
+				<th>preço</th>
+			<tr>
+				<td>Escola de Artes</td>
+				<td>Desenho, pintura, dança</th>
+				<td>Manhã/tarde</th>
+				<td>R$ 100</td>
+			</tr>
+			<tr>
+				<td>Studio Artesy</td>
+				<td>Desenho, pintura, dança, música</th>
+				<td>Manhã/tarde/noite</th>
+				<td>R$ 130</td>
+			</tr>
+			<tr>
+				<td>Instituto Sonar</td>
+				<td>Pintura, arte digital, dança, música</th>
+				<td>Manhã/tarde/noite</th>
+				<td>R$ 125</td>
+			</tr>
+		</table>
+				
+</html>
